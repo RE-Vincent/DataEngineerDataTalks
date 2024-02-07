@@ -1,0 +1,5 @@
+# Comentarios pueden ir aquí
+ny_taxi_postgres_data
+pgadmin_data
+*.log
+/tmp

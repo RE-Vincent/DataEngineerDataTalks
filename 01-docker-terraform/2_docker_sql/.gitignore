@@ -1,0 +1,27 @@
+# Comentarios pueden ir aquí
+ny_taxi_postgres_data
+pgadmin_data
+
+configure.txt
+upload-data.ipynb
+
+keys
+
+*.log
+
+######
+.DS_Store
+.idea
+*.tfstate
+.tfstate.
+.terraform
+.terraform.lock.*
+google_credentials.json
+logs/
+.env
+pycache/
+.history
+*/ny_taxi_postgres_data/
+serving_dir
+.ipynb_checkpoints/
+!week_6_stream_processing/avro_example/data/rides.csv
