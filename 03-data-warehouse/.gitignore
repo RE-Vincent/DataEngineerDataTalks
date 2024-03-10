@@ -90,6 +90,8 @@ target/
 
 #Temporary
 *.parquet
+*.csv
+*.gz
 
 # IPython
 profile_default/
